@@ -1,0 +1,17 @@
+{
+  "name": "js_mal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "test": "jest",
+    "fix": "prettier . --write"
+  },
+  "author": "",
+  "license": "ISC"
+}
