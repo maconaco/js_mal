@@ -78,4 +78,5 @@ module.exports = {
   isSpace: isSpace,
   isDigit: isDigit,
   tokenize: tokenize,
+  Types: Types,
 };
